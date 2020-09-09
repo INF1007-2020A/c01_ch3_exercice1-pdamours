@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import math
-from math import sqrt
+
 
 def square_root(number: int) -> float:
     # TODO completer la fonction
-    return sqrt(number)
+    return math.sqrt(number)
 
 
 def square(number: int) -> int:
